@@ -1,0 +1,133 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "userName": {
+        "fname": "Nitin",
+        "lname": "Verma"
+      },
+      "userDetails": {
+        "email": "a@2.com",
+        "dob": "2023-09-03T18:30:00.000Z"
+      },
+      "gender": "Male",
+      "education": "Post Graduate",
+      "company": "Goofle",
+      "experience": 11,
+      "package": 111,
+      "id": 1
+    },
+    {
+      "userName": {
+        "fname": "Tintin",
+        "lname": "WQW"
+      },
+      "userDetails": {
+        "email": "sa@sa.com",
+        "dob": "2023-09-04T18:30:00.000Z"
+      },
+      "gender": "Male",
+      "education": "Matric",
+      "company": "Gogole",
+      "experience": 1,
+      "package": 11,
+      "id": 2
+    },
+    {
+      "userName": {
+        "fname": "A",
+        "lname": "1"
+      },
+      "userDetails": {
+        "email": "a2@.xin",
+        "dob": "2023-09-18T18:30:00.000Z"
+      },
+      "gender": "Female",
+      "education": "Matric",
+      "company": "A",
+      "experience": 2,
+      "package": 2,
+      "id": 3
+    },
+    {
+      "userName": {
+        "fname": "Q",
+        "lname": "Q"
+      },
+      "userDetails": {
+        "email": "a2@.xom",
+        "dob": "2023-09-18T18:30:00.000Z"
+      },
+      "gender": "Male",
+      "education": "Diploma",
+      "company": "S",
+      "experience": 2,
+      "package": 22,
+      "id": 4
+    },
+    {
+      "userName": {
+        "fname": "2323",
+        "lname": "232"
+      },
+      "userDetails": {
+        "email": "a2@.xom",
+        "dob": "2023-09-05T18:30:00.000Z"
+      },
+      "gender": "Female",
+      "education": "Diploma",
+      "company": "wqwq",
+      "experience": 2,
+      "package": 3,
+      "id": 5
+    },
+    {
+      "userName": {
+        "fname": "2323",
+        "lname": "w32"
+      },
+      "userDetails": {
+        "email": "a2@.xom",
+        "dob": "0323-01-01T18:06:32.000Z"
+      },
+      "gender": "Others",
+      "education": "Diploma",
+      "company": "323",
+      "experience": 323,
+      "package": 2,
+      "id": 6
+    },
+    {
+      "userName": {
+        "fname": "Nitin",
+        "lname": "Verma"
+      },
+      "userDetails": {
+        "email": "nitin@gmail.com",
+        "dob": "2024-06-06T18:30:00.000Z"
+      },
+      "gender": "Male",
+      "education": "Matric",
+      "company": "Remotestate",
+      "experience": 1,
+      "package": 5,
+      "id": 7
+    }
+  ]
+}
