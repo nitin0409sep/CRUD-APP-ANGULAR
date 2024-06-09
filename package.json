@@ -8,6 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
+  "homepage": "https://github.com/nitin0409sep/CRUD-APP-ANGULAR",
   "private": true,
   "dependencies": {
     "@angular/animations": "^16.1.0",
