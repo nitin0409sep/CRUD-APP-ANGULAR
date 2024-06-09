@@ -25,7 +25,7 @@ jobs:
         run: npm install
 
       - name: Build Project
-        run: npm run build -- --output-path=dist  # Ensure this matches your Angular build output directory
+        run: npm run build -- --output-path=dist  # Ensure this matches your Angular build output directory, As we are running shell command so we will have to run command as npm run ...
 
       - name: Deploy To Github Pages
         uses: JamesIves/github-pages-deploy-action@v4
